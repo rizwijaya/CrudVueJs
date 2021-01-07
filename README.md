@@ -1,6 +1,6 @@
-# chattingapps
+# CRUDVueJs
 
-> chattingapps
+> CRUDVueJs
 
 ## Build Setup
 
